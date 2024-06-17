@@ -1,0 +1,265 @@
+{
+    "exercises": [
+        {
+            "name": "Bench Press",
+            "weight": "Barbell",
+            "type": "compound",
+            "targetMuscles": ["Pectoralis major", "Deltoids", "Triceps", "Latissimus dorsi", "Rhomboids", "Biceps", "Serratus anterior", "Trapezius", "Infraspinatus"],
+            "muscle": "Chest",
+            "exerciseInfo": "A compound exercise targeting the chest, shoulders, and triceps using a barbell. It's a fundamental exercise for building upper body strength and muscle mass.",
+            "optimalRange": "For Hypertrophy, the optimal range is between 6-12 reps.",
+            "item_name": "item_bench_press"
+        },
+        {
+            "name": "Dumbbell Flyes",
+            "weight": "Dumbbell",
+            "type": "isolated",
+            "targetMuscles": ["Pectoralis major", "Latissimus dorsi", "Rhomboids", "Biceps brachii", "Serratus anterior", "Trapezius", "Infraspinatus"],
+            "muscle": "Chest",
+            "exerciseInfo": "An isolated exercise targeting the chest with dumbbells in a fly motion. Lie flat on a bench, extend arms with dumbbells above chest, then lower arms out to sides in an arc motion.",
+            "optimalRange": "For Hypertrophy, the optimal range is between 8-12 reps.",
+            "item_name": "item_dumbbell_flyes"
+        },
+        {
+            "name": "Push-ups",
+            "weight": "bodyweight",
+            "type": "compound",
+            "targetMuscles": ["Pectoralis major", "Deltoids", "Triceps", "Latissimus dorsi", "Rhomboids", "Biceps", "Serratus anterior", "Trapezius", "Infraspinatus"],
+            "muscle": "Chest",
+            "exerciseInfo": "A compound exercise targeting the chest, shoulders, and triceps using body weight. Start in a plank position, lower body by bending elbows, then push back up.",
+            "optimalRange": "For Endurance, the optimal range is between 10-20 reps.",
+            "item_name": "item_push_ups"
+        },
+        {
+            "name": "Chest Press",
+            "weight": "machine",
+            "type": "compound",
+            "targetMuscles": ["Pectoralis major", "Deltoids", "Triceps", "Latissimus dorsi", "Rhomboids", "Biceps", "Serratus anterior", "Trapezius", "Infraspinatus"],
+            "muscle": "Chest",
+            "exerciseInfo": "A compound exercise targeting the chest, shoulders, and triceps using a machine. Sit on machine, grip handles, push forward until arms are extended, then return to starting position.",
+            "optimalRange": "For Hypertrophy, the optimal range is between 8-12 reps.",
+            "item_name": "item_chest_press"
+        },
+        {
+            "name": "Incline Bench Press",
+            "weight": "barbell",
+            "type": "compound",
+            "targetMuscles": ["Pectoralis major", "Deltoids", "Triceps", "Latissimus dorsi", "Rhomboids", "Biceps", "Serratus anterior", "Trapezius", "Infraspinatus"],
+            "muscle": "Chest",
+            "exerciseInfo": "A compound exercise targeting the upper chest, shoulders, and triceps using a barbell. Lie on incline bench, grip barbell, lower to upper chest, then push back up.",
+            "optimalRange": "For Hypertrophy, the optimal range is between 6-12 reps.",
+            "item_name": "item_incline_bench_press"
+        },
+        {
+            "name": "Dumbbell Pullover",
+            "weight": "dumbbell",
+            "type": "isolated",
+            "targetMuscles": ["Pectoralis major", "Latissimus dorsi", "Rhomboids", "Biceps brachii", "Serratus anterior", "Trapezius", "Infraspinatus"],
+            "muscle": "Chest",
+            "exerciseInfo": "An isolated exercise targeting the chest and back with dumbbells in a pullover motion. Lie flat on bench, hold dumbbell above chest, lower behind head, then return to start position.",
+            "optimalRange": "For Hypertrophy, the optimal range is between 8-12 reps.",
+            "item_name": "item_dumbbell_pullover"
+        },
+        {
+            "name": "Shoulder Press",
+            "weight": "barbell",
+            "type": "compound",
+            "targetMuscles": ["Deltoids", "Trapezius", "Triceps", "Latissimus dorsi", "Rhomboids", "Biceps", "Serratus anterior", "Infraspinatus", "Supraspinatus"],
+            "muscle": "Shoulders",
+            "exerciseInfo": "A compound exercise targeting the shoulders, trapezius, and triceps using a barbell. Sit on bench, grip barbell, press overhead until arms are extended, then lower back down.",
+            "optimalRange": "For Hypertrophy, the optimal range is between 6-12 reps.",
+            "item_name": "item_shoulder_press"
+        },
+        {
+            "name": "Lateral Raises",
+            "weight": "dumbbell",
+            "type": "isolated",
+            "targetMuscles": ["Deltoids", "Latissimus dorsi", "Rhomboids", "Biceps", "Serratus anterior", "Infraspinatus", "Supraspinatus"],
+            "muscle": "Shoulders",
+            "exerciseInfo": "An isolated exercise targeting the side delts with dumbbells in a lateral raise motion. Stand with dumbbells at sides, raise arms out to sides until parallel to floor, then lower back down.",
+            "optimalRange": "For Hypertrophy, the optimal range is between 10-15 reps.",
+            "item_name": "item_lateral_raises"
+        },
+        {
+            "name": "Front Raises",
+            "weight": "dumbbell",
+            "type": "isolated",
+            "targetMuscles": ["Deltoids", "Latissimus dorsi", "Rhomboids", "Biceps", "Serratus anterior", "Infraspinatus", "Supraspinatus"],
+            "muscle": "Shoulders",
+            "exerciseInfo": "An isolated exercise targeting the front delts with dumbbells in a front raise motion. Stand with dumbbells in front of thighs, raise arms in front of body until parallel to floor, then lower back down.",
+            "optimalRange": "For Hypertrophy, the optimal range is between 10-15 reps.",
+            "item_name": "item_front_raises"
+        },
+        {
+            "name": "Bicep Curls",
+            "weight": "dumbbell",
+            "type": "isolated",
+            "targetMuscles": ["Biceps brachii", "Latissimus dorsi", "Rhomboids", "Serratus anterior", "Brachialis", "Brachioradialis", "Supinator"],
+            "muscle": "Biceps",
+            "exerciseInfo": "An isolated exercise targeting the biceps with dumbbells in a curl motion. Stand with dumbbells at sides, curl weights upwards towards shoulders, then lower back down.",
+            "optimalRange": "For Hypertrophy, the optimal range is between 8-12 reps.",
+            "item_name": "item_bicep_curls"
+        },
+        {
+            "name": "Hammer Curls",
+            "weight": "dumbbell",
+            "type": "isolated",
+            "targetMuscles": ["Biceps brachii", "Latissimus dorsi", "Rhomboids", "Serratus anterior", "Brachialis", "Brachioradialis", "Supinator"],
+            "muscle": "Biceps",
+            "exerciseInfo": "An isolated exercise targeting the biceps with dumbbells in a hammer curl motion. Stand with dumbbells at sides, curl weights upwards with neutral grip, then lower back down.",
+            "optimalRange": "For Hypertrophy, the optimal range is between 8-12 reps.",
+            "item_name": "item_hammer_curls"
+        },
+        {
+            "name": "Tricep Dips",
+            "weight": "bodyweight",
+            "type": "compound",
+            "targetMuscles": ["Triceps", "Latissimus dorsi", "Rhomboids", "Serratus anterior", "Pectoralis major", "Deltoids", "Supinator"],
+            "muscle": "Triceps",
+            "exerciseInfo": "A compound exercise targeting the triceps using body weight and a dip motion. Position hands on parallel bars, lower body until elbows are at 90 degrees, then push back up.",
+            "optimalRange": "For Endurance, the optimal range is between 10-20 reps.",
+            "item_name": "item_tricep_dips"
+        },
+        {
+            "name": "Tricep Pushdowns",
+            "weight": "cable",
+            "type": "isolated",
+            "targetMuscles": ["Triceps", "Latissimus dorsi", "Rhomboids", "Serratus anterior", "Pectoralis major", "Deltoids", "Supinator"],
+            "muscle": "Triceps",
+            "exerciseInfo": "An isolated exercise targeting the triceps using a cable machine in a pushdown motion. Stand in front of cable machine, grasp bar, push bar downwards until arms are extended, then return to start position.",
+            "optimalRange": "For Hypertrophy, the optimal range is between 8-12 reps.",
+            "item_name": "item_tricep_pushdowns"
+        },
+        {
+            "name": "Pull-ups",
+            "weight": "bodyweight",
+            "type": "compound",
+            "targetMuscles": ["Latissimus dorsi", "Rhomboids", "Biceps", "Pectoralis major", "Deltoids", "Triceps", "Serratus anterior", "Trapezius", "Infraspinatus"],
+            "muscle": "Back",
+            "exerciseInfo": "A compound exercise targeting the back, biceps, and shoulders using body weight and a pull-up motion. Grip bar with hands slightly wider than shoulder-width, pullup until chin passes the bar, then lower back down with control.",
+            "optimalRange": "For Strength, the optimal range is between 4-6 reps.",
+            "item_name": "item_pull_ups"
+        },
+        {
+            "name": "Barbell Rows",
+            "weight": "barbell",
+            "type": "compound",
+            "targetMuscles": ["Latissimus dorsi", "Rhomboids", "Biceps", "Pectoralis major", "Deltoids", "Triceps", "Serratus anterior", "Trapezius", "Infraspinatus"],
+            "muscle": "Back",
+            "exerciseInfo": "A compound exercise targeting the back, biceps, and shoulders using a barbell in a rowing motion. Bend knees slightly, hinge at hips, grasp bar with palms facing down, pull bar towards lower chest, then lower back down with control.",
+            "optimalRange": "For Hypertrophy, the optimal range is between 6-12 reps.",
+            "item_name": "item_barbell_rows"
+        },
+        {
+            "name": "Dumbbell Rows",
+            "weight": "dumbbell",
+            "type": "compound",
+            "targetMuscles": ["Latissimus dorsi", "Rhomboids", "Biceps", "Pectoralis major", "Deltoids", "Triceps", "Serratus anterior", "Trapezius", "Infraspinatus"],
+            "muscle": "Back",
+            "exerciseInfo": "A compound exercise targeting the back, biceps, and shoulders using dumbbells in a rowing motion. Stand with knees slightly bent, hinge at hips, grasp dumbbells, pull elbows up and back, then lower back down with control.",
+            "optimalRange": "For Hypertrophy, the optimal range is between 8-12 reps.",
+            "item_name": "item_dumbbell_rows"
+        },
+        {
+            "name": "Lat Pulldowns",
+            "weight": "cable",
+            "type": "compound",
+            "targetMuscles": ["Latissimus dorsi", "Rhomboids", "Biceps", "Pectoralis major", "Deltoids", "Triceps", "Serratus anterior", "Trapezius", "Infraspinatus"],
+            "muscle": "Back",
+            "exerciseInfo": "A compound exercise targeting the back, biceps, and shoulders using a cable machine in a pulldown motion. Sit at machine, grasp bar with wide overhand grip, pull bar down to chest, then return to start position with control.",
+            "optimalRange": "For Hypertrophy, the optimal range is between 8-12 reps.",
+            "item_name": "item_lat_pulldowns"
+        },
+        {
+            "name": "Deadlifts",
+            "weight": "barbell",
+            "type": "compound",
+            "targetMuscles": ["Erector spinae", "Latissimus dorsi", "Hamstrings", "Glutes", "Pectoralis major", "Deltoids", "Triceps", "Serratus anterior", "Trapezius", "Infraspinatus"],
+            "muscle": "Lower Back, Glutes, Hamstrings",
+            "exerciseInfo": "A compound exercise targeting the back, glutes, hamstrings, and lower back using a barbell. Stand with feet shoulder-width apart, grip barbell with hands just outside legs, push hips back, lower bar to mid-shin, then drive hips forward to stand up straight.",
+            "optimalRange": "For Strength and Hypertrophy, the optimal range is between 4-8 reps.",
+            "item_name": "item_deadlifts"
+        },
+        {
+            "name": "Good Mornings",
+            "weight": "barbell",
+            "type": "compound",
+            "targetMuscles": ["Erector spinae", "Hamstrings", "Glutes", "Latissimus dorsi", "Rhomboids", "Biceps", "Serratus anterior", "Trapezius", "Infraspinatus"],
+            "muscle": "Lower Back, Hamstrings, Glutes",
+            "exerciseInfo": "A compound exercise targeting the lower back, glutes, and hamstrings using a barbell. Stand with feet shoulder-width apart, barbell across back, hinge at hips, lower torso forward until parallel to floor, then return to start position with control.",
+            "optimalRange": "For Strength and Hypertrophy, the optimal range is between 6-10 reps.",
+            "item_name": "item_good_mornings"
+        },
+        {
+            "name": "Russian Twists",
+            "weight": "bodyweight",
+            "type": "isolated",
+            "targetMuscles": ["Rectus abdominis", "Obliques", "Latissimus dorsi", "Rhomboids", "Serratus anterior", "Trapezius", "Infraspinatus"],
+            "muscle": "Core",
+            "exerciseInfo": "An isolated exercise targeting the abs and obliques using a twisting motion. Sit on floor with knees bent, lean back slightly, hold arms in front of chest, rotate torso to left, then to right, keeping core engaged.",
+            "optimalRange": "For Endurance, the optimal range is between 12-20 reps.",
+            "item_name": "item_russian_twists"
+        },
+        {
+            "name": "Plank",
+            "weight": "bodyweight",
+            "type": "compound",
+            "targetMuscles": ["Rectus abdominis", "Obliques", "Latissimus dorsi", "Rhomboids", "Serratus anterior", "Trapezius", "Infraspinatus"],
+            "muscle": "Core",
+            "exerciseInfo": "A compound exercise targeting the abs and obliques using a static hold position. Start in push-up position, lower onto forearms, keep body straight from head to heels, hold position for specified time.",
+            "optimalRange": "For Endurance, the optimal range is between 30 seconds to 2 minutes.",
+            "item_name": "item_plank"
+        },
+        {
+            "name": "Squats",
+            "weight": "barbell",
+            "type": "compound",
+            "targetMuscles": ["Quadriceps", "Hamstrings", "Glutes", "Latissimus dorsi", "Rhomboids", "Biceps", "Serratus anterior", "Trapezius", "Infraspinatus"],
+            "muscle": "Quadriceps, Hamstrings, Glutes",
+            "exerciseInfo": "A compound exercise targeting the quads, hamstrings, and glutes using a barbell. Stand with feet shoulder-width apart, barbell across back, lower hips back and down until thighs are parallel to floor, then drive through heels to stand up straight.",
+            "optimalRange": "For Strength and Hypertrophy, the optimal range is between 6-12 reps.",
+            "item_name": "item_squats"
+        },
+        {
+            "name": "Lunges",
+            "weight": "dumbbell",
+            "type": "compound",
+            "targetMuscles": ["Quadriceps", "Hamstrings", "Glutes", "Latissimus dorsi", "Rhomboids", "Biceps", "Serratus anterior", "Trapezius", "Infraspinatus"],
+            "muscle": "Quadriceps, Hamstrings, Glutes",
+            "exerciseInfo": "A compound exercise targeting the quads, hamstrings, and glutes using dumbbells in a lunge motion. Stand tall with dumbbells at sides, step forward with one leg, lower hips until both knees are bent at 90 degrees, then push back up to starting position.",
+            "optimalRange": "For Hypertrophy, the optimal range is between 8-12 reps.",
+            "item_name": "item_lunges"
+        },
+        {
+            "name": "Leg Press",
+            "weight": "machine",
+            "type": "compound",
+            "targetMuscles": ["Quadriceps", "Hamstrings", "Glutes", "Latissimus dorsi", "Rhomboids", "Biceps"],
+            "muscle": "Quadriceps, Hamstrings, Glutes",
+            "exerciseInfo": "A compound exercise targeting the quads, hamstrings, and glutes using a leg press machine. Sit on machine with back against pad, place feet shoulder-width apart on platform, extend legs until nearly fully straight, then lower platform back down with control.",
+            "optimalRange": "For Hypertrophy, the optimal range is between 8-12 reps.",
+            "item_name": "item_leg_press"
+        },
+        {
+            "name": "Leg Extensions",
+            "weight": "machine",
+            "type": "isolated",
+            "targetMuscles": ["Quadriceps", "Latissimus dorsi", "Rhomboids", "Biceps"],
+            "muscle": "Quadriceps",
+            "exerciseInfo": "An isolated exercise targeting the quads using a leg extension machine. Sit on machine with knees bent, place shins under padded lever, extend legs until knees are almost straight, then return to start position with control.",
+            "optimalRange": "For Hypertrophy, the optimal range is between 8-12 reps.",
+            "item_name": "item_leg_extensions"
+        },
+        {
+            "name": "Hamstring Curls",
+            "weight": "machine",
+            "type": "isolated",
+            "targetMuscles": ["Hamstrings", "Latissimus dorsi", "Rhomboids"],
+            "muscle": "Hamstrings",
+            "exerciseInfo": "An isolated exercise targeting the hamstrings using a hamstring curl machine. Lie face down on machine, position legs under padded lever, curl legs up towards buttocks, then lower back down with control.",
+            "optimalRange": "For Hypertrophy, the optimal range is between 8-12 reps.",
+            "item_name": "item_hamstring_curls"
+        }
+    ]
+}
+
